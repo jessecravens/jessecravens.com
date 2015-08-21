@@ -4,7 +4,7 @@
   <title><![CDATA[Jesse Cravens]]></title>
   <link href="http://jessecravens.com/atom.xml" rel="self"/>
   <link href="http://jessecravens.com/"/>
-  <updated>2014-08-06T23:01:36-05:00</updated>
+  <updated>2015-08-20T21:10:57-05:00</updated>
   <id>http://jessecravens.com/</id>
   <author>
     <name><![CDATA[Jesse Cravens]]></name>
@@ -12,6 +12,116 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[FITC Toronto 2015 and joining InVision]]></title>
+    <link href="http://jessecravens.com/blog/2015/08/20/fitc-toronto-2015-and-joining-invision/"/>
+    <updated>2015-08-20T20:28:00-05:00</updated>
+    <id>http://jessecravens.com/blog/2015/08/20/fitc-toronto-2015-and-joining-invision</id>
+    <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=RoPA3xAMVvI"><img class="imgR400" alt="Jesse Cravens FITC 2014" src="http://jessecravens.com/images/fitc2015.png"></a></p>
+
+<p>In April, I had a chance to attend and <a href="https://www.youtube.com/watch?v=RoPA3xAMVvI">speak at FITC 2015 in Toronto</a>. This was an important talk for me as I was just three days into a new job, leaving the pond at <a href="http://frogdesign.com">frog design</a>, to join my first startup, <a href="http://invisionapp.com">InVision</a>. That was not an easy decision for me, in that I loved working for <a href="http://frogdesign.com">frog</a>. My work at <a href="http://frogdesign.com">frog</a> was the first time I had been giving the freedom to ‘focus&#8217; in the workplace.</p>
+
+<p>The culture at frog is certainly not for everyone, but for me, someone who has always been comfortable with creating my own path, it was in many ways &lsquo;carte blanche’. The catch at <a href="http://frogdesign.com">frog</a> is that, by design, you won’t be given much direction; you are expected to create and drive the direction. When I joined <a href="http://frogdesign.com">frog</a>, my goals were to speak and write as much as I could while I focused on producing as high a volume of quality technical deliverables as I could for our clients. And in almost every case,  while leading ‘greenfield&rsquo; projects for fortune 200 companies, I was able to stop and start over on each project building upon the momentum and experience of the previous endeavor. All of that real world learning fueled my writing and speaking. It was exhausting, in the good kind of way.</p>
+
+<p><a href="http://invisionapp.com"><img class="imgL200" alt="Jesse Cravens FITC 2014" src="http://jessecravens.com/images/invisionapp-logo.png"></a></p>
+
+<p>This was a very different model than building software within an enterprise, maintaining and/or augmenting legacy systems, or having frameworks and tools prescribed to you by the weight o f enterprise processes and architectural directives. This was exciting because, as I said before, the freedom fueled growth, the healthy, self-directed type of growth.</p>
+
+<p>So why did I leave? Another opportunity was presented to me that sparked a deep curiosity because in some ways the problem set was the antithesis of my work at <a href="http://frogdesign.com">frog</a>, a product suite and engineering team that was being challenged to scale to millions of users. I knew that their challenge would help me grow too, and fill in even more gaps.</p>
+
+<p>Now, production applications weren’t new to me when I joined <a href="http://invisionapp.com">InVision</a>, but in some ways startup culture and the smaller engineering team was. While in some of my previous roles, I would be responsible for a small sliver of a very large pie, here my slice would be much larger, and the red tape would be few and far between. I could recommend an approach, build it, and deploy it within three days as compared to three months or sometimes even three years.</p>
+
+<p>Another interesting pivot for me was to completely walk away from the Ember community, and dive into Angular and React/Flux, as if I was disgruntled with Ember or something. On the contrary, my first 3-4 months at <a href="http://invisionapp.com">InVision</a>, I spent my time retro fitting the existing application with tooling that ember-cli provides out of the box. And, as Ember 2.0 is released, my appreciation for the work that community is doing is even greater than it was before. For now, I watch from afar, as I’m not actively developing an Ember app. On the contrary, I am much closer to the Angular and React communities than I was before, which makes for a nice trade off.</p>
+
+<p>I have to say that working at <a href="http://invisionapp.com">InVision</a> has been an amazing experience. We are a 100% remote team using the latest and greatest of tooling to keep up with each other and our software. Our software continues to evolve as does our DevOps automation, deployment models, code quality and our architecture. Not only that, we have been working night and day to build our teams with the best and brightest talent we can find. The company has tripled in the 6 months since I have been here. It has been an amazing whirlwind of growth.</p>
+
+<p>I am currently focusing on leading the Application Core team. This was the challenge I was looking for in that I needed to learn the breadth of the product suite’s codebase before I could formalize a plan for evolving the architecture for scaling, addressing performance issues and technical debt, and improving developer workflow and code hygiene. Our application core team is now around 10 engineers and testers, and we begin to see the fruits of our labor. <a href="http://www.invisionapp.com/company">We are still growing and searching for great talent</a>, feel free to reach out if you are interested.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What’s Next? SPA 2.0: The Latest in JavaScript Application Frameworks]]></title>
+    <link href="http://jessecravens.com/blog/2015/02/17/whats-next-spa-2-dot-0-the-latest-in-javascript-application-frameworks/"/>
+    <updated>2015-02-17T19:03:00-06:00</updated>
+    <id>http://jessecravens.com/blog/2015/02/17/whats-next-spa-2-dot-0-the-latest-in-javascript-application-frameworks</id>
+    <content type="html"><![CDATA[<h2>An Early Adopter of Ember</h2>
+
+<p>Outside of architecting and developing complex web apps during my day job at <a href="http://frogdesign.com">frog design</a>, I spent a good part of 2014 finishing up <a href="http://www.amazon.com/gp/product/1449370926/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449370926&linkCode=as2&tag=wwwjessecrave-20&linkId=6CCXPQ2HHNLSTI5N">Building Web Apps with Ember.js</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=wwwjessecrave-20&l=as2&o=1&a=1449370926" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, teaching <a href="http://www.jessecravens.com/blog/2014/08/06/ember-dot-js-workshops/">Ember.js workshops</a>, and giving <a href="https://teamtreehouse.com/library/the-art-and-science-of-shipping-single-page-apps-with-emberjs">a talk entitled: “The Art and Science of Shipping of SPAs with Ember.js.”</a></p>
+
+<p><a href="https://teamtreehouse.com/library/the-art-and-science-of-shipping-single-page-apps-with-emberjs"><img class="imgL400" alt="Jesse Cravens and The Art and Science of Shipping Single Page Apps with Ember.js" src="http://jessecravens.com/images/blogposts/artandscience5.png"></a></p>
+
+<p>Each of these focus areas were obviously complimentary: the workshops serving as deep dives, the talks as the high level summaries, and the book and companion source code serving as a reference application and detailed documentation.</p>
+
+<p>At work, throughout 2013, 2014, and now into 2015, I have leveraged this momentum to educate cross-discipline teams of developers and designers and execute some very ambitious JavaScript applications for numerous clients. In a rapidly changing environment, it has been a pleasure to grow a team that now possesses framework-level expertise, allowing us to rapidly iterate on application feature sets without having to reinvent the wheel.</p>
+
+<p><img class="imgR200" alt="O'Reilly's Building Web Apps with Ember.js by Jesse Cravens" src="http://jessecravens.com/images/oredev/ember_cover_600.png"></p>
+
+<p>For me, all of this has been a culmination of experiences that started in the mid 2000s with PHP and Flash work while doing small business web design and CMS development, to large scale production of JavaScript and mobile hybrid apps in the late 2000s, and to now UI/UX focused, enterprise, rapid application development.</p>
+
+<p>Perhaps, this excerpt from the prelude of  <a href="http://www.amazon.com/gp/product/1449370926/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449370926&linkCode=as2&tag=wwwjessecrave-20&linkId=6CCXPQ2HHNLSTI5N">Building Web Apps with Ember.js</a> explains my stance for the last couple of years:</p>
+
+<blockquote><p>Since 2009, I have worked on numerous applications using Backbone, Angular, and
+Ember. But today, I often recommend Ember.js to the clients I work with. This is primarily
+due to the fact that the conventions support well-known web application development
+patterns that I have custom written or pieced together from multiple open
+source libraries. Here, are the high level concepts that, in my opinion, make Ember so
+valuable:</p>
+
+<ul>
+<li>Ember’s object model supports a classic and well understood, object-oriented
+pattern of class inheritance through extend, object initialization, getters and setters,
+and class monkey patching.</li>
+<li>Ember models, controllers, and components extend the Object class, which ensures
+that these objects inherit Ember’s powerful default data binding.</li>
+<li>The router supports complex nesting for URL-driven applications that manage
+application state in a conventional way that can be understood by those with
+web-server-routing backgrounds.</li>
+<li>Recently, build, workflow, and testing tools in Ember have matured and become
+intuitive.</li>
+<li>Ember’s only dependencies are on jQuery and Handlebars.js, two very wellknown
+and documented libraries.</li>
+<li>Finally, the community is vibrant, passionate, and extremely active.</li>
+</ul>
+</blockquote>
+
+<h2>What’s Next?</h2>
+
+<p>Most recently, I find myself moving into a new phase that mirrors the needs and concerns of the clients I interact with on a daily basis: navigating the SPA landscape and making future friendly decisions based on the complex solutions matrix that is now Ember 2.0, Angular 2.0, and current React/Flux.</p>
+
+<p>My latest talk:  SPA 2.0: The latest in JavaScript frameworks will address these questions:</p>
+
+<ul>
+<li><p>What does the future hold for the building of complex applications on the Web Platform in 2015?
+How do we manage the complex SPA landscape, and help our clients make future friendly architectural decisions?</p></li>
+<li><p>Will an Angular 2.0 breaking rewrite send devs running for something better? Can React/Flux community offer a complete application framework solution for complex applications? Will Ember continue to evolve into a lighter framework that can shed it&rsquo;s &lsquo;monolithic framework&rsquo; reputation?</p></li>
+<li><p>As the Angular and React communities adopt the Ember Router and the Ember community is inspired by React’s Virtual Dom to take advantage of it’s existing under utilized view graph, the communities are adopting the best of each other. In what other ways are the individual framework communities learning from each other?</p></li>
+<li><p>Will native, cross browser web components become a reality? What is the IE roadmap in regards to custom elements, HTML templates, HTML imports, and shadow DOM? Will we begin writing web components in Ember without the use of handlebars syntax?</p></li>
+<li><p>Will functional reactive ‘stream’ patterns become common place with better integration into frameworks, as promises did in 2014?</p></li>
+<li><p>With ES6 modules ( and transpiler build steps ), as practitioners can we finally lay the JS module debacle to rest? Do Isomorphic JS architectures still make this a challenge?</p></li>
+</ul>
+
+
+<h2>SPA 2.0 Topic Areas</h2>
+
+<p>Here, are the areas my talks will focus on in 2015:</p>
+
+<ul>
+<li>Framework Maturity and Stability</li>
+<li>Developer Ergonomics, Tooling, and Front End Ops</li>
+<li>View Performance and Mobile</li>
+<li>Async Router</li>
+<li>Data Binding (1-way , 2-way use cases)</li>
+<li>ES6 modules</li>
+<li>Web Components</li>
+<li>Community and Documentation</li>
+<li>Release Cycle</li>
+<li>Client Side Data Stores</li>
+<li>Services and JSON Specifications</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ember.js Workshops]]></title>
@@ -1847,188 +1957,6 @@ See innovative example solutions and learn why NodeJS is an ideal development pl
 <p>I felt as though I improved over time, looking back is always interesting. I like to keep fine tuning and revising, but at some point you have to ship the product. I&rsquo;m really proud of the work, it has been hard, but I learned a ton in the process.</p>
 
 <p>Most of my hacks I tried to make relevant to real world software development challenges, and mix in a number of HTML5 specifications. Hopefully, that turns out to benefit the reader &hellip; I&rsquo;m all ears on the feedback. So don&rsquo;t hesitate to drop us a line.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Migration from Drupal to Octopress]]></title>
-    <link href="http://jessecravens.com/blog/2012/09/23/migration-from-drupal-to-octopress/"/>
-    <updated>2012-09-23T13:39:00-05:00</updated>
-    <id>http://jessecravens.com/blog/2012/09/23/migration-from-drupal-to-octopress</id>
-    <content type="html"><![CDATA[<h2>Why?</h2>
-
-<p>For the last 6 years, I have hosted my personal blog using Drupal at bluehost.com, and I finally have made the decision to migrate.</p>
-
-<p>I have been using Ruby on Rails, Sinatra, and Node.js for prototypes, demos, web-based presentations, and production apps, and deploying to Heroku for the past couple of years. The productivity gains and integration with github and social media, have brought me to the point that I&rsquo;d prefer for my workflow for blogging, updating to my microformats resume and portfolios to be similar to how I create and manage my other content.</p>
-
-<p>So here, it is. Once I have written a proper migration script, and taken care of all the custom urls, I&rsquo;ll post my solution here.</p>
-
-<p>UPDATE:</p>
-
-<div><script src='https://gist.github.com/3895430.js'></script>
-<noscript><pre><code># inspired by: http://www.infovore.info/blog/2011/09/24/octopress-setup-and-drupal-migration/
-# simplified to be dropped in your root Octopress app directory, along with an export (.sql) of your mysql db.
-
-###### Creates post in this basic format ######
-
-#  ---
-#  layout: post
-#  title: #{title}
-#  date: #{time}
-#  comments: true
-#  categories: #{tag_list}
-#  ---       
-#  content
-
-################################################
-
-
-  require &#39;rubygems&#39;
-  require &#39;sequel&#39;
-  require &#39;fileutils&#39;
-  require &#39;yaml&#39;
-
-
-        puts &quot;Building refresh layout&quot;
-        File.open(&quot;source/_layouts/refresh.html&quot;, &quot;w&quot;) do |f|
-        f.puts &lt;&lt;EOF    
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
-&lt;meta http-equiv=&quot;refresh&quot; content=&quot;0;url={{ page.refresh_to_post_id }}.html&quot; /&gt;
-&lt;/head&gt;
-&lt;/html&gt;
-EOF
-        end
-
-        DB = Sequel.connect(:adapter =&gt; &#39;mysql&#39;, :user =&gt; &#39;root&#39;, :host =&gt; &#39;localhost&#39;, :database =&gt; &#39;jessecra&#39;,:password=&gt;&#39;frog&#39;)
-        puts DB.tables
-
-        QUERY = &quot;select  node.nid, node.title, node_revisions.body, node.created, node.status, f.name as format, u.dst \
-             from node \
-                  join node_revisions on node.vid = node_revisions.vid \
-                  join filter_formats f on node_revisions.format = f.format \
-                  left join url_alias u on concat(&#39;node/&#39;, node.nid) = u.src \
-             where (node.type = &#39;blog&#39; OR node.type = &#39;story&#39; OR node.type = &#39;article&#39;)&quot;
-
-         DB[QUERY].each do |post|
-
-            # Get required fields and construct Jekyll compatible name
-            node_id = post[:nid]
-            # puts node_id
-            title = post[:title]
-            puts title
-            content = post[:body]
-            # puts content
-            created = post[:created]
-            format = post[:format].strip.downcase == &#39;textile&#39; ? &#39;textile&#39; : &#39;markdown&#39;
-            dst  = post[:dst] || nil
-            time = Time.at(created)
-            is_published = post[:status] == 1
-            published = is_published ? nil : false
-            dir = &quot;source&quot;
-            posts_dir = &quot;#{dir}/_posts&quot;
-            slug = title.strip.downcase.gsub(/(&amp;|&amp;amp;)/, &#39; and &#39;).gsub(/[\s\.\/\\]/, &#39;-&#39;).gsub(/[^\w-]/, &#39;&#39;).gsub(/[-_]{2,}/, &#39;-&#39;).gsub(/^[-_]/, &#39;&#39;).gsub(/[-_]$/, &#39;&#39;)
-            name = time.strftime(&quot;%Y-%m-%d-&quot;) + slug + &#39;.&#39; + format
-            # puts name
-
-            tag_query = &quot;select distinct node.nid, type, td.name \
-                         from node \
-                              join term_node tn on node.nid = tn.nid \
-                              join term_data td on tn.tid = td.tid \
-                         where node.nid = #{node_id} order by node.nid&quot;
-            tags = []
-            DB[tag_query].each do |tag|
-              stripped_tag = tag[:name].gsub /&quot;/, &#39;|&#39;
-              tags.push stripped_tag
-            end
-            tag_list = tags.length == 0 ? nil : tags
-            
-            puts tag_list
-
-            # Write out the data and content to file
-            File.open(&quot;#{posts_dir}/#{name}&quot;, &quot;w&quot;) do |f|
-              f.puts &quot;---&quot;
-              f.puts &quot;layout: post&quot;
-              f.puts &quot;title: \&quot;#{title}\&quot;&quot; 
-              f.puts &quot;date: #{time}&quot; 
-              f.puts &quot;comments: true&quot;
-              f.puts &quot;categories: #{tag_list}&quot;
-              f.puts &quot;---&quot;
-              f.puts content
-            end
-
-            # Make a file to redirect from the old Drupal URL
-            if is_published
-              FileUtils.mkdir_p(dir + &quot;/node/#{node_id}&quot;)
-              File.open(dir + &quot;/node/#{node_id}/index.md&quot;, &quot;w&quot;) do |f|
-                f.puts &quot;---&quot;
-                f.puts &quot;layout: refresh&quot;
-                f.puts &quot;refresh_to_post_id: /blog/#{time.strftime(&quot;%Y/%m/%d/&quot;) + slug}/index&quot;
-                f.puts &quot;---&quot;
-              end
-              if dst
-                FileUtils.mkdir_p(&quot;#{dir}/#{dst}&quot;)
-                File.open(&quot;#{dir}/#{dst}/index.md&quot;, &quot;w&quot;) do |f|
-                  f.puts &quot;---&quot;
-                  f.puts &quot;layout: refresh&quot;
-                  f.puts &quot;refresh_to_post_id: /blog/#{time.strftime(&quot;%Y/%m/%d/&quot;) + slug}/index&quot;
-                  f.puts &quot;---&quot;
-                end
-              end
-            end
-          end</code></pre></noscript></div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JavaScript Modules]]></title>
-    <link href="http://jessecravens.com/blog/2012/06/17/javascript-modules/"/>
-    <updated>2012-06-17T16:23:21-05:00</updated>
-    <id>http://jessecravens.com/blog/2012/06/17/javascript-modules</id>
-    <content type="html"><![CDATA[<p>For a talk last March at USAA&#8217;s internal Tech X conference, I put together a demo of JavaScript script loaders, module definitions, dependency management, and polyfill support: <a href="http://jessecravens.github.com/js-modules-demo">JavaScript Modules</a>.</p>
-
-
-<p><a href="http://jessecravens.github.com/js-modules-demo/"><img class="imgL" width="500px" src="http://jessecravens.com/images/blogposts/js-modules.png"></a></p>
-
-<p>This demonstrates the following Module Definitions:</p>
-
-
-
-
-<ul>
-<li>AMD</li>
-<li>CommonJS</li>
-<li>YUI3</li>
-<li>JS Harmony</li>
-</ul>
-
-
-
-
-<p>And a few script loaders:</p>
-
-
-
-
-<ul>
-<li>RequireJS</li>
-<li>yepnope</li>
-<li>YUI3 - YUI Loader</li>
-</ul>
-
-
-
-
-<p>If you want to know more about the state of modules, dependency loading and management in the JavaScript world, there is always room for more contributors, just fork or clone the project &#8230; and you will have a playground to begin playing with some of the most popular implementations.</p>
-
-
-<p>To learn more, check it out here: <a href="http://jessecravens.github.com/js-modules-demo/">jessecravens.github.com/js-modules-demo</a></p>
-
-
-
 ]]></content>
   </entry>
   
