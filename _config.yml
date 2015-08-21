@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://jessecravens.github.io
+url: http://echo 'jessecravens.com' >> source/CNAME
 title: Jesse Cravens
 subtitle: u·biq·ui·tous javascript and html5
 author: Jesse Cravens

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Graphic Design | Jesse Cravens]]></title>
-  <link href="http://jessecravens.github.io/blog/categories/graphic-design/atom.xml" rel="self"/>
-  <link href="http://jessecravens.github.io/"/>
-  <updated>2015-08-21T08:28:56-05:00</updated>
-  <id>http://jessecravens.github.io/</id>
+  <link href="http://echo 'jessecravens.com' >> source/CNAME/blog/categories/graphic-design/atom.xml" rel="self"/>
+  <link href="http://echo 'jessecravens.com' >> source/CNAME/"/>
+  <updated>2015-08-21T13:06:26-05:00</updated>
+  <id>http://echo 'jessecravens.com' >> source/CNAME/</id>
   <author>
     <name><![CDATA[Jesse Cravens]]></name>
     <email><![CDATA[jesse.cravens@gmail.com]]></email>
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[inspiration is bliss album cover]]></title>
-    <link href="http://jessecravens.github.io/blog/2006/04/27/inspiration-is-bliss-album-cover/"/>
+    <link href="http://echo 'jessecravens.com' >> source/CNAME/blog/2006/04/27/inspiration-is-bliss-album-cover/"/>
     <updated>2006-04-27T19:52:43-05:00</updated>
-    <id>http://jessecravens.github.io/blog/2006/04/27/inspiration-is-bliss-album-cover</id>
+    <id>http://echo 'jessecravens.com' >> source/CNAME/blog/2006/04/27/inspiration-is-bliss-album-cover</id>
     <content type="html"><![CDATA[<p>I have been working on the the album cover for Inspiration is Bliss. After three years of working on this collection of songs, I&rsquo;m feeling that I am one song shy of its completion. There will be 9 songs total. Here is the first comp of the album cover. Look familiar? I used this texture in the header above.</p>
 
-<p><img src="http://jessecravens.github.io/images/2006/01/inspiration3.jpg" alt="inspiration3.jpg" align="baseline" width="350" height="350" hspace="10" vspace="10" border="1" /></p>
+<p><img src="http://echo 'jessecravens.com' >> source/CNAME/images/2006/01/inspiration3.jpg" alt=&ldquo;inspiration3.jpg&rdquo; align=&ldquo;baseline&rdquo; width=&ldquo;350&rdquo; height=&ldquo;350&rdquo; hspace=&ldquo;10&rdquo; vspace=&ldquo;10&rdquo; border=&ldquo;1&rdquo; /></p>
 ]]></content>
   </entry>
   
