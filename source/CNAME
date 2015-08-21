@@ -1,1 +1,1 @@
-echo 'jessecravens.com' >> CNAME
+echo ‘jessecravens.com' >> source/CNAME
