@@ -17,7 +17,7 @@ The culture at frog is certainly not for everyone, but for me, someone who has a
 
 <a href="http://invisionapp.com"><img class="imgL200" alt="Jesse Cravens FITC 2014" src="/images/invisionapp-logo.png"></a>
 
-This was a very different model than building software within an enterprise, maintaining and/or augmenting legacy systems, or having frameworks and tools prescribed to you by the weight o f enterprise processes and architectural directives. This was exciting because, as I said before, the freedom fueled growth, the healthy, self-directed type of growth.
+This was a very different model than building software within an enterprise, maintaining and/or augmenting legacy systems, or having frameworks and tools prescribed to you by the weight of enterprise processes and architectural directives. This was exciting because, as I said before, the freedom fueled growth, the healthy, self-directed type of growth.
 
 So why did I leave? Another opportunity was presented to me that sparked a deep curiosity because in some ways the problem set was the antithesis of my work at [frog](http://frogdesign.com), a product suite and engineering team that was being challenged to scale to millions of users. I knew that their challenge would help me grow too, and fill in even more gaps.
 
